@@ -1,0 +1,18 @@
+How to run functions:
+
+If Matlab:
+
+1. Open up matlab
+2. Navigate to the directory that the Matlab code is in (e.g., FigureS1A folder)
+3. Type in [output] = function() [This is the first line of each .m file]
+4. Press enter
+5. There should be plots of the respective Figures within the Figure folders
+
+If Jupyter Notebook (this is only for FigureS4E):
+
+1. Open up terminal
+2. Type in "jupyter notebook" to launch the browser
+3. Navigate to the folder with the .ipynb file
+4. Open the file
+5. Press Control+Enter in each box of the notebook
+6. There should be a plot that corresponds to the figure
