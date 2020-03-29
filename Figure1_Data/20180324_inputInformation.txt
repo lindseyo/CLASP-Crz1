@@ -1,0 +1,6 @@
+20180321 Duration control experiment -- all image analysis ouput files labeled with 20180324_p*CTSeed
+All wells induced with 1024 a.u., duration of light input by position is:
+p1 - 20m
+p2 - 40m
+p3 - 80m
+p4 - 120m

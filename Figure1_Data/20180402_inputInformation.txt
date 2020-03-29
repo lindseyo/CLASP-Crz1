@@ -1,0 +1,10 @@
+20180327 Duration control experiment -- all analysis files labeled with 20180402
+All wells induced with 1024 a.u., duration of light input was randomized, so the inputs by position are:
+p1 - 2m
+p2 - 10m
+p3 - 20m
+p4 - 80m
+p5 - 40m
+p6 - 0m
+p7 - 8m
+p8 - 4m
