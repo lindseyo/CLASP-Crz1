@@ -1,7 +1,7 @@
 # CLASP-Crz1
 Code to generate figures for Chen, Osimiri, et al 2019 (biorxiv).
 
-Code is divided into folders by which figure they relate to. Data is available via Mendeley Data. To run code, add unzip data folder into the same root directory as th code.
+Code is divided into folders by which figure they relate to. Data is available via Mendeley Data. To run code, unzip data folder into the same root directory as the code.
 
 For code in Jupyter notebooks, running the named cells will produce the subpanels. For code in Matlab, running "[output] = function()" will generate the figure and/or subpanel.
 
