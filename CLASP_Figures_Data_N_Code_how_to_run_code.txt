@@ -1,5 +1,7 @@
 How to run functions for SYC CLASP code:
 
+Before running code in Matlab, make sure CODE and DATA are in the same folder. CODE -> GITHUB and DATA -> Mendeley Data. There will be the same file structure for the two repos. And what one needs to do is just combine the files (code+data) into the same folder and run the code to get the figures.
+
 If Matlab:
 
 1. Open up matlab
